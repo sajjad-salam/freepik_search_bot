@@ -20,12 +20,12 @@ A Telegram bot that searches for icons on Freepik using the Freepik API.
 - `telebot` library
 - `requests` library
 - `cfonts` library (for ASCII art)
-- Freepik API token (replace `token` with your actual token)
+- (replace `token` with your actual token)
 
 ## **Installation**
 
 1. Install the required libraries using `pip`: `pip install telebot requests cfonts`
-2. Replace `token` with your actual Freepik API token
+2. Replace `token` with your actual
 3. Run the script using `python main.py`
 
 ## **Author**
